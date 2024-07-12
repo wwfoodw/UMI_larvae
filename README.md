@@ -26,5 +26,17 @@ Water			-		6.5625	630
      
 ![image](https://github.com/user-attachments/assets/b814dcb2-1133-4a28-9727-0a5a0543240f)
 
+hold at 60°C for 10 minutes, then 80°C for 45s, then hold at 37°C
+
+then add exoI enzyme
+
+Reagent	Initial_Conc		Final Conc		1 x	98 x
+2x Master Mix	2	x	1	x	10.375	1016.75
+Primer: i5…	10	µM	0.2	µM	0.415	40.67
+Primer: i7_12S_R_Achel	10	µM	0.2	µM	0.415	40.67
+DNA	-	-	-	-	0.75	73.5
+Water			-		8.795	861.91
+					20.75 µL	2033.5 µL
+     ![image](https://github.com/user-attachments/assets/4cf3e6bd-5544-4b78-a97a-0cd269b12415)
 
 
