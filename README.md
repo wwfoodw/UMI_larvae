@@ -1,4 +1,11 @@
 
+Reagent	Initial_Conc		Final Conc		1 x	96 x
+10x isothermal amp buffer	10	x	1	x	1.5	144
+DNA	-	-	-	-	7.5	720
+Water			-		6	576
+					15 µL	1440 µL
+     
+![image](https://github.com/user-attachments/assets/14258eb9-da21-48d1-98ca-beb7b434b74d)
 
 
 ![image](https://github.com/user-attachments/assets/847dea4d-b3b4-42ba-85f8-d27508756e85)
@@ -15,7 +22,9 @@ dNTP	10	mM	2	mM	3	288
 BST 2.0	8000	units/ml	500	units/ml	0.9375	90
 MgSO4	10		1.2		1.8	172.8
 Water			-		6.5625	630
-					15 µL	1440 µL![image](https://github.com/user-attachments/assets/b814dcb2-1133-4a28-9727-0a5a0543240f)
+					15 µL	1440 µL
+     
+![image](https://github.com/user-attachments/assets/b814dcb2-1133-4a28-9727-0a5a0543240f)
 
 
 
