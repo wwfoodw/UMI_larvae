@@ -1,6 +1,8 @@
+# UMI tagged bulk metabarcoding of Western Australian phyllosomas
+
 # Lab protocol for UMI tagging
 
-Primers
+# Primers
 
 i5_R13CN_12S_F_Achel :  5' - TCGTCGGCAGCGTC AGATGTGTATAAGAGACAG NNNNCNNNNCNNNNN GAAAGCGACGGGCAATATGTACA - 3'
 
@@ -8,6 +10,7 @@ i7_12S_R_Achel :        5' - GTCTCGTGGGCTCGG AGATGTGTATAAGAGACAG GTGCCAGCAKCCGCG
 
 i5_min :                5' - TCGTCGGCAGCGTC AGATG - 3'
 
+# Reaction conditions
      
 ![image](https://github.com/user-attachments/assets/14258eb9-da21-48d1-98ca-beb7b434b74d)
 
