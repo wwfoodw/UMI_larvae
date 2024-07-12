@@ -15,3 +15,8 @@ then add exoI enzyme
 
 ![image](https://github.com/user-attachments/assets/3ffb8a70-91e6-4a70-a913-1e9156c2e3b5)
 
+     
+![image](https://github.com/user-attachments/assets/273181ad-e8fb-422d-9b28-aa369ba9cbfc)
+
+
+![image](https://github.com/user-attachments/assets/0d76ce4c-8370-4960-8b74-1be8d26d4c17)
