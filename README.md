@@ -11,6 +11,8 @@ i7_12S_R_Achel :        5' - GTCTCGTGGGCTCGG AGATGTGTATAAGAGACAG GTGCCAGCAKCCGCG
 i5_min :                5' - TCGTCGGCAGCGTC AGATG - 3'
 
 # Reaction conditions
+
+The first stage of the process is to prepare the DNA for tagging with the UMIs, which in this case is 13 Ns interupted by a couple of Cs (NNNNCNNNNCNNNNN)
      
 ![image](https://github.com/user-attachments/assets/14258eb9-da21-48d1-98ca-beb7b434b74d)
 
@@ -26,10 +28,11 @@ add labelled DNA to PCR:
 
 ![image](https://github.com/user-attachments/assets/4cf3e6bd-5544-4b78-a97a-0cd269b12415)
 
-
+Thermocycler cinditions:
 
 ![image](https://github.com/user-attachments/assets/3ffb8a70-91e6-4a70-a913-1e9156c2e3b5)
 
+Than add the i5 and i7 indices using the NEXTERA protocol
      
 ![image](https://github.com/user-attachments/assets/273181ad-e8fb-422d-9b28-aa369ba9cbfc)
 
