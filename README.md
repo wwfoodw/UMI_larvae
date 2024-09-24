@@ -1,5 +1,9 @@
 # UMI tagged bulk metabarcoding of Western Australian phyllosomas
 
+This study uses unique molecular identifiers (UMIs) to individually label DNA before it undergoes PCR and sequencing. The basic rationale is that PCR and sequencing are known to introduce stochastic errors into the DNA sequence files obtained at the end of the process - but the UMIs inable us to track the fate of individual molecules through PCR and identify where errors occur. The lab protocol is described below. We have two biuoinformatic pipelines, which both an R package called UMIc (https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.660366/full), but then diverge depending on whether they are investigating the intraspecific or interspecific dynamics of East Indian Ocean phyllosomas. 
+
+Phyllosomas are the larvae of slipper and rock (spiny) lobsters. These larvae are characterised by travelling unusually long distances (10s to 100s of kilometers) for unusually long periods of time (months rather than days, even years). We look at intraspecific population dynamics of the Western Rock Lobster here (https://github.com/wwfoodw/UMI_larvae/blob/main/Population_UMI_metabarcoding_larvae.md), and interspecific details here (https://github.com/wwfoodw/UMI_larvae/blob/main/Species_Identification.md). 
+
 # Lab protocol for UMI tagging
 
 # Primers
