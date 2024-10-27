@@ -4,6 +4,8 @@ This study uses unique molecular identifiers (UMIs) to individually label DNA be
 
 Phyllosomas are the larvae of slipper and rock (spiny) lobsters. These larvae are characterised by travelling unusually long distances (10s to 100s of kilometers) for unusually long periods of time (months rather than days, even years). We look at intraspecific population dynamics of the Western Rock Lobster here (https://github.com/wwfoodw/UMI_larvae/blob/main/Population_UMI_metabarcoding_larvae.md), and interspecific details here (https://github.com/wwfoodw/UMI_larvae/blob/main/Species_Identification.md). 
 
+Raw seaquences are available in reads are available from ncbi/sra (accession PRJNA1165976
+
 # Lab protocol for UMI tagging
 
 # Primers
